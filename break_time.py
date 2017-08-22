@@ -10,5 +10,5 @@ break_count=0
 total_breaks=3  #number of breaks
 while (break_count<total_breaks):
           time.sleep(10)
-          webbrowser.open("https://www.youtube.com/watch?v=pvAsqPbz9Ro") 
+          webbrowser.open("https://www.youtube.com/watch?v=pvAsqPbz9Ro") #add your link
           break_count=break_count+1
