@@ -1,7 +1,6 @@
 #webbrowser.open(url, new=0, autoraise=True)
 import webbrowser
 import time
-
 #keep a track on time
 #open a webrowser when it's time
 #using python3.x
