@@ -4,7 +4,7 @@ import time
 
 #keep a track on time
 #open a webrowser when it's time
-
+#using python3.x
 print ("this program started on "+time.ctime())
 break_count=0
 total_breaks=3  #number of breaks
