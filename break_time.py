@@ -13,3 +13,5 @@ while (break_count<total_breaks):
           time.sleep(10)
           webbrowser.open("https://www.youtube.com/watch?v=pvAsqPbz9Ro") #add your link
           break_count=break_count+1
+if(1==1):
+	print("true")
